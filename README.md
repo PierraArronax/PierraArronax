@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PierraArronax
+- 👋 Hi, I’m @PierreArronax
 - 👀 I’m interested in cybersécurité
 - 🌱 I’m currently learning js and python
 - 📫 How to reach me pierre.arronax11011@gmail.com
